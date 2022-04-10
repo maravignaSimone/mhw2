@@ -33,6 +33,10 @@
     .choice-grid div{
         width: 49%;
     }
+
+    .question-name h1{
+        font-size: 2em;
+    }
 }
 
 .choice-grid div.selected{
